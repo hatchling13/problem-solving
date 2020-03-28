@@ -1,4 +1,4 @@
-[Problem 724, Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
+[Problem 724, Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)  
 Written in: cpp
 
 ~~~cpp

@@ -1,5 +1,5 @@
 [Problem 724, Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)  
-Written in: cpp
+Written in: C++
 
 ~~~cpp
 class Solution {

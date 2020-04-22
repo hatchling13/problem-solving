@@ -1,5 +1,6 @@
 [Problem 747, Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)  
-Written in: cpp
+Written in: C++
+
 ~~~cpp
 class Solution {
 public:

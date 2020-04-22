@@ -1,5 +1,5 @@
 [Problem 27, Remove Element](https://leetcode.com/problems/remove-element/)
-Written in: cpp
+Written in: C++
 
 ~~~cpp
 class Solution {

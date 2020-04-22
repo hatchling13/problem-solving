@@ -1,5 +1,5 @@
 [Problem 66, Plus One](https://leetcode.com/problems/plus-one/)  
-Written in: cpp
+Written in: C++
 
 ~~~cpp
 class Solution {

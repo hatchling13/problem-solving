@@ -1,5 +1,5 @@
-[Problem 1046, Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
-Written in: cpp
+[Problem 1046, Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)  
+Written in: C++
 
 ~~~cpp
 #include <algorithm>

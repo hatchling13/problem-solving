@@ -1,2 +1,2 @@
-# leetcode
-My LeetCode solution. Written in various languages.
+# problem-solving
+My solutions for algorithm problems. Written in various languages.
